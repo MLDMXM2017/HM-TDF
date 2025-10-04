@@ -1,7 +1,7 @@
 ﻿# Introduction
 This repository contains the dataset and code utilized in our research on developing **HM-TDF**, a hard sample mining-based tongue diagnosis framework for fatty liver disease severity classification. 
 # Paper Title
-Hard Sample Mining-Based Tongue Diagnosis Framework for Fatty Liver Disease Severity Classification Using Kolmogorov-Arnold Network
+Hard Sample Mining-Based Tongue Diagnosis for Fatty Liver Disease Severity Classification
 # Method
 We propose a Hard sample Mining-based Tongue Diagnosis Framework (HM-TDF) for fatty liver disease severity classification, which identifies hard-to-classify samples based on uncertainty and applies targeted learning to enhance classification performance, as shown in the following figure.
 ![image](https://github.com/MLDMXM2017/HM-TDF/blob/main/figures/framework_overview.png)
@@ -24,7 +24,7 @@ Python: 3.8.19
 # Cite this repository
 If you find this code or dataset useful in your research, please consider citing us:  
 @inproceedings{HM-TDF,  
-  title={Hard Sample Mining-Based Tongue Diagnosis Framework for Fatty Liver Disease Severity Classification Using Kolmogorov-Arnold Network},  
+  title={Hard Sample Mining-Based Tongue Diagnosis for Fatty Liver Disease Severity Classification},  
   link={https://github.com/MLDMXM2017/HM-TDF}  
 }  
 
